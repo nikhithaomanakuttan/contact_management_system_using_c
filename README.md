@@ -27,7 +27,7 @@ How to Use the System:
 
 Step 1: Compile the Program
 
-To compile the program, open the terminal (or command prompt) and navigate to the directory where the source code file (contact_management.c) is located. Then, use the following command:
+To compile the program, open the terminal  and navigate to the directory where the source code file (contact_management.c) is located. Then, use the following command:
 
 gcc contact_management.c -o contact_management
 
@@ -105,7 +105,7 @@ To exit the system, select option 6. The program will close.
 
 Data Storage:
 
-The system stores contacts in a text file (e.g., contacts.txt) to persist data between runs. Each contact is stored in the following format:
+The system stores contacts in a text file to persist data between runs. Each contact is stored in the following format:
 
 Name: John Doe
 Phone: 123-456-7890
